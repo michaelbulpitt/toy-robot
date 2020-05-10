@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require './lib/robot_processor'
+
+processor = RobotProcessor.new(input: ARGV.first)
+processor.run

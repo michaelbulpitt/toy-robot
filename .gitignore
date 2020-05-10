@@ -1,0 +1,6 @@
+*.dump
+*.log
+.DS_Store
+.DS_Store
+.bundle/config
+.byebug_history
